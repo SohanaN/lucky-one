@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "index": 0,
+        "image": "https://img.freepik.com/free-photo/falafel-balls-wrap_162831-37.jpg?w=740",
+        "price": 223,
+        "name": "Falafel balls wrap"
+    },
+    {
+        "id": "2",
+        "index": 1,
+        "image": "https://img.freepik.com/free-photo/shawarma-with-chicken-fresh-vegetables-red-sauce-isolated-white-background_207126-8149.jpg?w=740",
+        "price": 316,
+        "name": "Shawarma"
+    },
+    {
+        "id": "3",
+        "index": 2,
+        "image": "https://img.freepik.com/free-photo/bbq-close-healthy-halal-shish_1172-442.jpg?w=740&t=st=1648245603~exp=1648246203~hmac=f47010fb95be671e5b367d729e21391ff92dd5c2591f981f47346c04031b8add",
+        "price": 307,
+        "name": "Bbq close healthy halal shish"
+    },
+    {
+        "id": "4",
+        "index": 3,
+        "image": "https://img.freepik.com/free-photo/arabic-traditional-cuisine-shish-tawk-with-potatoes-red-cabbage-salad-homemade_322022-700.jpg?w=740",
+        "price": 202,
+        "name": "Shish tawk"
+    },
+    {
+        "id": "5",
+        "index": 4,
+        "image": "https://img.freepik.com/free-photo/national-uzbek-pilaf-with-meat-cast-iron-skillet-wooden-table_127425-8.jpg?w=740",
+        "price": 368,
+        "name": "Pilaf with meat"
+    },
+    {
+        "id": "6",
+        "index": 5,
+        "image": "https://img.freepik.com/free-photo/chef-cook-fries-meat-beef-steak-open-fire-restaurant_127425-660.jpg?w=740",
+        "price": 308,
+        "name": "Beef steak "
+    },
+    {
+        "id": "7",
+        "index": 6,
+        "image": "https://img.freepik.com/free-photo/rack-lamb-with-grilled-vegetables-raspberry-sauce_127425-167.jpg?w=740",
+        "price": 295,
+        "name": "Rack of lamb"
+    },
+    {
+        "id": "8",
+        "index": 7,
+        "image": "https://img.freepik.com/free-photo/turkish-oriental-cuisine-turkish-tortilla-bun-pita-bread-with-kebab-pickled-onions-serving-restaurant-black-slate-wooden-table_127425-527.jpg?w=740",
+        "price": 392,
+        "name": "Pita bread with kebab "
+    },
+    {
+        "id": "9",
+        "index": 8,
+        "image": "https://img.freepik.com/free-photo/traditional-arabic-mixed-barbeque-plate-white-background_141438-2544.jpg?w=740",
+        "price": 384,
+        "name": "Arabic mixed barbeque plate"
+    },
+    {
+        "id": "10",
+        "index": 9,
+        "image": "https://img.freepik.com/free-photo/oriental-hummus-with-grilled-sesame_127425-273.jpg?w=740",
+        "price": 237,
+        "name": "Hummus with grilled sesame"
+    }
+]
