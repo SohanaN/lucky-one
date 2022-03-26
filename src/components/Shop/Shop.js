@@ -16,15 +16,16 @@ const Shop = () => {
     return (
         <div className='shop-container'>
             <div className="products-container">
-{products.map(product=><Product 
-key={product.id}
-product={product}
-handleAddToCart={handleAddToCart}
-></Product>)}
+                {products.map(product=><Product 
+                key={product.id}
+                product={product}
+                handleAddToCart={handleAddToCart}
+                ></Product>)}
             </div>
             <div className="cart-container">
-<h4>cart</h4>
-<p>Selected Items: {cart.length}</p>
+                <h2>Selected Items: {cart.length}</h2>
+                <p>Choose 1 item for me</p>
+                <p>Choose Again</p>
             </div>
         </div>
     );
