@@ -6,7 +6,7 @@ const QnAns = () => {
             <div>
                 <hr />
                     <h4>
-                        <strong>QN:</strong>
+                        <strong>QN-1:</strong>
                         How react works?</h4>
                     <p>
                         <strong>Ans:</strong>
@@ -19,7 +19,7 @@ It creates user interfaces (UIs) in a efficient, and flexible  way using declara
                 </div>
                 <div>
                     <h4>
-                        <strong>QN:</strong>
+                        <strong>QN-2:</strong>
                         How useState works?
                     </h4>
                     <p>
